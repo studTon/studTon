@@ -15,4 +15,4 @@ com **HTML**, **CSS** e **JS**; e também a programar em **C**, **C++** e
 
 ---------------------------
 
-[![studTon with HTML code background](studTon.jpg)
+![studTon with HTML code background](studTon.jpg)
