@@ -2,7 +2,7 @@
 
 ### _Hi there_ 👋
 ### _Olá!!!_ 👋
-### _¡¡¡Hola!!!_
+### _¡¡¡Hola!!!_ 👋
 
 ---------------------------
 
@@ -15,3 +15,4 @@ com **HTML**, **CSS** e **JS**; e também a programar em **C**, **C++** e
 
 ---------------------------
 
+[![studTon with HTML code background](studTon.jpg)
