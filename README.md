@@ -12,6 +12,13 @@ Sou Everton, estudante de Análise e Desenvolvimento de
 Sistemas. No momento estou aprendendo a criar Websites
 com **HTML**, **CSS** e **JS**; e também a programar em **C**, **C++** e 
 **Python**.
+### _My learning's description_
+
+I am Everton, student of Systems Analysis. Right now I 
+am learning how to create Websites with **HTML**, **CSS**
+and **JS**; and also to code in **C**, **C++** and **Python**.
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=studTon.studTon)
 
 ---------------------------
 
