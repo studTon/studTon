@@ -18,7 +18,7 @@ I am Everton, student of Systems Analysis. Right now I
 am learning how to create Websites with **HTML**, **CSS**
 and **JS**; and also to code in **C**, **C++** and **Python**.
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=studTon.studTon)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=studTon.studTon)\
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=studTon&count_private=false&show_icons=true&hide=)
 ---------------------------
 
