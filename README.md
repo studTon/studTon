@@ -21,5 +21,3 @@ and **JS**; and also to code in **C**, **C++** and **Python**.
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=studTon.studTon)\
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=studTon&count_private=false&show_icons=true&hide=)
 ---------------------------
-
-![studTon with HTML code background](studTon.jpg)
