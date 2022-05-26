@@ -12,8 +12,8 @@ Sou Everton, estudante de Análise e Desenvolvimento de
 Sistemas. No momento estou aprendendo a criar Websites
 com **HTML**, **CSS** e **JS**; e também a programar em
 **C**, **C++** e **Python**. Atualmente desenvolvo um 
-projeto com framework Angular no Front-End e Flask no
-Back-End.
+projeto com framework **Angular no Front-End e Flask no
+Back-End**.
 ### _My learning's description_
 
 I am Everton, student of Systems Analysis. Right now I 
