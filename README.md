@@ -9,18 +9,13 @@
 ### _Descrição do meu aprendizado_
 
 Sou Everton, estudante de Análise e Desenvolvimento de
-Sistemas. No momento estou aprendendo a criar Websites
-com **HTML**, **CSS** e **JS**; e também a programar em
-**C**, **C++** e **Python**. Atualmente desenvolvo um 
-projeto com framework **Angular no Front-End e Flask no
-Back-End**.
+Sistemas. No momento estou aprendendo a programar em **Python** especialmente para Ciência de Dados e Análise de Dados.
+Atualmente trabalho com Business Intelligence, utilizando o Microsoft Power BI como principal ferramenta de desenvolvimento.
 ### _My learning's description_
 
 I am Everton, student of Systems Analysis. Right now I 
-am learning how to create Websites with **HTML**, **CSS**
-and **JS**; and also to code in **C**, **C++** and **Python**.
-Nowadays I'm developing a project with **Angular on Front End and
-Flask on Back End**.
+am learning how to code in **Python** especially for Data Science and Data Analysis.
+Nowadays I'm working with Business Intelligence, using Microsoft Power BI as main development tool.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=studTon.studTon)\
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=studTon&count_private=false&show_icons=true&hide=)
